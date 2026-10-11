@@ -3,3 +3,9 @@
 ![image](https://github.com/9M2PJU/Asas-Netfilter/assets/991353/9d669c02-6c6a-4333-b567-d785b4755bea)
 
 PDF by Bahathir (root)
+
+## Support
+
+If you find this project useful, please consider supporting it:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9m2pju%40hamradio.my&currency_code=MYR&item_name=Asas-Netfilter)
